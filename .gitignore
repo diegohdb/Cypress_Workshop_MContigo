@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# reports
+mochawesome-reports
+cypress/reports/*
+
+# videos
+cypress/videos
+cypress/screenshots
+
+# others
+.DS_Store
